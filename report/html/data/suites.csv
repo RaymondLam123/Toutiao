@@ -1,0 +1,11 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Wed Jun 19 21:06:00 CST 2019","Wed Jun 19 21:06:00 CST 2019","1","","test_deploy_toutiao","","test_deploy_toutiao","Test_deploy_toutiao.test01","Test_deploy_toutiao.test01","
+        1、进入【首页】，点击发布
+        2、点击发图文按钮
+        3、进入，【发布页面】，输入文本（上传图片）
+        4、点击发布
+        "
+"passed","Wed Jun 19 21:06:00 CST 2019","Wed Jun 19 21:06:29 CST 2019","28375","","test_deploy_toutiao","","test_deploy_toutiao","Test_deploy_toutiao.test02","Test_deploy_toutiao.test02","
+        搜索头条，发布头条
+        :return:
+        "

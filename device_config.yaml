@@ -1,0 +1,10 @@
+Devices:
+  platformName: Android
+  platformVersion: 4.4.2
+  deviceName: 127.0.0.1:62001
+  appPackage: com.ss.android.article.news
+  #appPackage: com.ss.android.article.news
+  appActivity: .activity.MainActivity
+  #appActivity: .Settings
+
+Remote: http://127.0.0.1:4723/wd/hub

@@ -1,0 +1,4 @@
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "Android", "appium:platformVersion": "4.4.2", "appium:deviceName": "127.0.0.1:62001", "appium:appPackage": "com.ss.android.article.news", "appium:appActivity": ".activity.MainActivity", "appium:unicodeKeyboard": true, "appium:resetKeyboard": true}]}, "desiredCapabilities": {"platformName": "Android", "platformVersion": "4.4.2", "deviceName": "127.0.0.1:62001", "appPackage": "com.ss.android.article.news", "appActivity": ".activity.MainActivity", "unicodeKeyboard": true, "resetKeyboard": true}}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session HTTP/1.1" 200 818
+remote_connection.py       440 DEBUG    Finished Request

@@ -1,0 +1,63 @@
+{
+  "uid" : "bcde81116bd5234",
+  "name" : "Test_deploy_toutiao.test01",
+  "fullName" : "test_deploy_toutiao.Test_deploy_toutiao.test01",
+  "historyId" : "1ed3efdf239dc00e5d3a38871bd36eea",
+  "time" : {
+    "start" : 1560949560897,
+    "stop" : 1560949560898,
+    "duration" : 1
+  },
+  "description" : "\n        1、进入【首页】，点击发布\n        2、点击发图文按钮\n        3、进入，【发布页面】，输入文本（上传图片）\n        4、点击发布\n        ",
+  "descriptionHtml" : "<pre><code>    1、进入【首页】，点击发布\n    2、点击发图文按钮\n    3、进入，【发布页面】，输入文本（上传图片）\n    4、点击发布\n</code></pre>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: 跳过该函数",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "Panpan"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "3148-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_deploy_toutiao"
+  }, {
+    "name" : "testClass",
+    "value" : "test_deploy_toutiao"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_deploy_toutiao.test01"
+  }, {
+    "name" : "package",
+    "value" : "test_deploy_toutiao"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bcde81116bd5234.json",
+  "parameterValues" : [ ]
+}

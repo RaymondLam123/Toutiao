@@ -1,0 +1,21 @@
+[ {
+  "uid" : "27b37b4855f38f7c",
+  "name" : "Test_deploy_toutiao.test02",
+  "time" : {
+    "start" : 1560949560899,
+    "stop" : 1560949589274,
+    "duration" : 28375
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bcde81116bd5234",
+  "name" : "Test_deploy_toutiao.test01",
+  "time" : {
+    "start" : 1560949560897,
+    "stop" : 1560949560898,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

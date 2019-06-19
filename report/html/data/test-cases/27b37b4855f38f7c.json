@@ -1,0 +1,83 @@
+{
+  "uid" : "27b37b4855f38f7c",
+  "name" : "Test_deploy_toutiao.test02",
+  "fullName" : "test_deploy_toutiao.Test_deploy_toutiao.test02",
+  "historyId" : "c8d6ee4ce2ccd96749ccb909eefc6929",
+  "time" : {
+    "start" : 1560949560899,
+    "stop" : 1560949589274,
+    "duration" : 28375
+  },
+  "description" : "\n        搜索头条，发布头条\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    搜索头条，发布头条\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ea28c73181068365",
+      "name" : "Captured log setup",
+      "source" : "ea28c73181068365.txt",
+      "type" : "text/plain",
+      "size" : 767
+    }, {
+      "uid" : "7c444ca44bcb1d51",
+      "name" : "Captured log call",
+      "source" : "7c444ca44bcb1d51.txt",
+      "type" : "text/plain",
+      "size" : 8481
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "Panpan"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "3148-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_deploy_toutiao"
+  }, {
+    "name" : "testClass",
+    "value" : "test_deploy_toutiao"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_deploy_toutiao.test02"
+  }, {
+    "name" : "package",
+    "value" : "test_deploy_toutiao"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "27b37b4855f38f7c.json",
+  "parameterValues" : [ ]
+}

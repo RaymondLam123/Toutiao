@@ -1,0 +1,47 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1560949560897" stop="1560949589274">
+  <name>test_deploy_toutiao</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1560949560897" status="canceled" stop="1560949560898">
+      <description>
+        1、进入【首页】，点击发布
+        2、点击发图文按钮
+        3、进入，【发布页面】，输入文本（上传图片）
+        4、点击发布
+        </description>
+      <name>Test_deploy_toutiao.test01</name>
+      <failure>
+        <message>Skipped: 跳过该函数</message>
+        <stack-trace></stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3148-MainThread"/>
+        <label name="host" value="Panpan"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1560949560899" status="passed" stop="1560949589274">
+      <description>
+        搜索头条，发布头条
+        :return:
+        </description>
+      <name>Test_deploy_toutiao.test02</name>
+      <attachments>
+        <attachment source="38fa36eb-6956-4ab3-865b-1958125dc7d6-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="75108447-4129-4782-970d-d2c5be4d5ca0-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="3148-MainThread"/>
+        <label name="host" value="Panpan"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,12 @@
+Devices:
+  platformName: Android
+  platformVersion: 4.4.2
+  #platformVersion: 6.0.1
+  deviceName: 127.0.0.1:62001
+  #deviceName: c57118997d53
+  appPackage: com.ss.android.article.news
+  appActivity: .activity.MainActivity
+  unicodeKeyboard: True
+  resetKeyboard: True
+
+Remote: http://127.0.0.1:4723/wd/hub

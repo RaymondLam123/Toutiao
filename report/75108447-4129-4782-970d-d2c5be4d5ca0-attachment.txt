@@ -1,0 +1,64 @@
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element {"using": "id", "value": "com.ss.android.article.news:id/bln", "sessionId": "9d5cd769-1401-40ec-a708-607122b8ec63"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element HTTP/1.1" 404 452
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element {"using": "id", "value": "com.ss.android.article.news:id/bln", "sessionId": "9d5cd769-1401-40ec-a708-607122b8ec63"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element HTTP/1.1" 404 452
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element {"using": "id", "value": "com.ss.android.article.news:id/bln", "sessionId": "9d5cd769-1401-40ec-a708-607122b8ec63"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element HTTP/1.1" 404 452
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element {"using": "id", "value": "com.ss.android.article.news:id/bln", "sessionId": "9d5cd769-1401-40ec-a708-607122b8ec63"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element HTTP/1.1" 404 452
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element {"using": "id", "value": "com.ss.android.article.news:id/bln", "sessionId": "9d5cd769-1401-40ec-a708-607122b8ec63"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element HTTP/1.1" 404 452
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element {"using": "id", "value": "com.ss.android.article.news:id/bln", "sessionId": "9d5cd769-1401-40ec-a708-607122b8ec63"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element HTTP/1.1" 404 452
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element {"using": "id", "value": "com.ss.android.article.news:id/bln", "sessionId": "9d5cd769-1401-40ec-a708-607122b8ec63"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element HTTP/1.1" 404 452
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element {"using": "id", "value": "com.ss.android.article.news:id/bln", "sessionId": "9d5cd769-1401-40ec-a708-607122b8ec63"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element HTTP/1.1" 404 452
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element {"using": "id", "value": "com.ss.android.article.news:id/bln", "sessionId": "9d5cd769-1401-40ec-a708-607122b8ec63"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element HTTP/1.1" 404 452
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element {"using": "id", "value": "com.ss.android.article.news:id/bln", "sessionId": "9d5cd769-1401-40ec-a708-607122b8ec63"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element HTTP/1.1" 200 67
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element/1/click {"id": "1", "sessionId": "9d5cd769-1401-40ec-a708-607122b8ec63"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element/1/click HTTP/1.1" 200 14
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element {"using": "id", "value": "com.ss.android.article.news:id/uk", "sessionId": "9d5cd769-1401-40ec-a708-607122b8ec63"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element HTTP/1.1" 200 67
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element/2/clear {"id": "2", "sessionId": "9d5cd769-1401-40ec-a708-607122b8ec63"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element/2/clear HTTP/1.1" 200 14
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element/2/value {"text": "\u6797\u5cf0", "value": ["\u6797", "\u5cf0"], "id": "2", "sessionId": "9d5cd769-1401-40ec-a708-607122b8ec63"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element/2/value HTTP/1.1" 200 14
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element {"using": "id", "value": "com.ss.android.article.news:id/uh", "sessionId": "9d5cd769-1401-40ec-a708-607122b8ec63"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element HTTP/1.1" 200 67
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element/3/click {"id": "3", "sessionId": "9d5cd769-1401-40ec-a708-607122b8ec63"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/9d5cd769-1401-40ec-a708-607122b8ec63/element/3/click HTTP/1.1" 200 14
+remote_connection.py       440 DEBUG    Finished Request
